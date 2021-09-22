@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css" />
+    <script src="src/main.js" defer></script>
+    <title>Dennis Shop</title>
+</head>
+<body>
+    <div class="navbar">
+        <img class="logo" src="img/Logo.png" alt="">
+        <ul class="navmenu">
+            <li><a href="index.html">Shop<br>Items</a></li>
+            <li class="catBtn">Search by Category</li>
+            <li><a href="aboutus.html">About<br>Us</a></li>
+        </ul>
+    </div>
+    <div class="buttons">
+        <button class="btn"><img src="img/clothes.png" alt="clothes" class="imgBtn" data-key="type" data-value="clothes"></button>
+        <button class="btn"><img src="img/devices.png" alt="devices" class="imgBtn" data-key="type" data-value="devices"></button>
+        <button class="btn"><img src="img/foods.png" alt="foods" class="imgBtn" data-key="type" data-value="foods"></button>
+        <button class="btn"><img src="img/stationary.png" alt="stationary"class="imgBtn" data-key="type" data-value="stationary"></button>
+        <button class="btn priceBtn lessOne" data-key="range" data-value="lessOne">$1 ~ $50</button>
+        <button class="btn priceBtn fiftyToTwohun" data-key="range" data-value="fiftyToTwohun">$50 ~ $200</button>
+        <button class="btn priceBtn overTwohun" data-key="range" data-value="overTwohun">Over $200</button>
+    </div>
+    <ul class="items">
+    </ul>
+</body>
+</html>

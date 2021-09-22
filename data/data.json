@@ -1,0 +1,116 @@
+{
+    "items": [
+      {
+        "type": "clothes",
+        "price": "$40",
+        "product": "Pants",
+        "range": "lessOne",
+        "image": "./img/pants.png"
+      },
+      {
+        "type": "clothes",
+        "price": "$20",
+        "product": "Tshirt",
+        "range": "lessOne",
+        "image": "./img/tshirt.png"
+      },
+      {
+        "type": "clothes",
+        "price": "$150",
+        "product": "Jacket",
+        "range": "fiftyToTwohun",
+        "image": "./img/jacket.png"
+      },
+      {
+        "type": "clothes",
+        "price": "$100",
+        "product": "Hoodie",
+        "range": "fiftyToTwohun",
+        "image": "./img/hoodie.png"
+      },
+      {
+        "type": "devices",
+        "price": "$190",
+        "product": "Oppo",
+        "range": "fiftyToTwohun",
+        "image": "./img/oppo.png"
+      },
+      {
+        "type": "devices",
+        "price": "$600",
+        "product": "LG",
+        "range": "overTwohun",
+        "image": "./img/LG.png"
+      },
+      {
+        "type": "devices",
+        "price": "$1100",
+        "product": "Samsung",
+        "range": "overTwohun",
+        "image": "./img/samsung.png"
+      },
+      {
+        "type": "devices",
+        "price": "$1200",
+        "product": "Iphone",
+        "range": "overTwohun",
+        "image": "./img/iphone.png"
+      },
+      {
+        "type": "foods",
+        "price": "$10",
+        "product": "Apple",
+        "range": "lessOne",
+        "image": "./img/apple.png"
+      },
+      {
+        "type": "foods",
+        "price": "$20",
+        "product": "Banana",
+        "range": "lessOne",
+        "image": "./img/banana.png"
+      },
+      {
+        "type": "foods",
+        "price": "$20",
+        "product": "Tomato",
+        "range": "lessOne",
+        "image": "./img/tomato.png"
+      },
+      {
+        "type": "foods",
+        "price": "$20",
+        "product": "Strawberry",
+        "range": "lessOne",
+        "image": "./img/strawberry.png"
+      },
+      {
+        "type": "stationary",
+        "price": "$3",
+        "product": "Pen",
+        "range": "lessOne",
+        "image": "./img/pen.png"
+      },
+      {
+        "type": "stationary",
+        "price": "$4",
+        "product": "Notebook",
+        "range": "lessOne",
+        "image": "./img/notebook.png"
+      },
+      {
+        "type": "stationary",
+        "price": "$10",
+        "product": "Scissors",
+        "range": "lessOne",
+        "image": "./img/scissors.png"
+      },
+      {
+        "type": "stationary",
+        "price": "$5",
+        "product": "Pencil",
+        "range": "lessOne",
+        "image": "./img/pencil.png"
+      }
+    ]
+  }
